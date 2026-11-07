@@ -1,0 +1,6 @@
+{
+  "name": "Analyseur de Répertoires et Poids Disque",
+  "description": "Analyseur de structure et poids de dossiers avec calcul dynamique des sous-répertoires sélectionnés et export de rapports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
